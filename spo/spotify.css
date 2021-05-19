@@ -1,0 +1,80 @@
+body
+{
+    background-color: rgb(26, 24, 24);
+    color: white;
+}
+
+.logo
+{
+    height: 50px;
+
+    width: 160px;
+}
+.signup
+{
+border-radius: 20px;
+
+}
+/* .signsift
+{
+    padding-left: 400px; 
+}
+.shift
+{
+    padding-left: 400px;
+
+}
+*/
+.signsift
+{
+    padding-left: 20px; 
+}
+.pagebody
+{
+    margin: 10px;
+    background-color: black;
+    padding: 20px;
+    
+} 
+.linkbody
+{
+    
+    color: white;
+    background-color: black;
+    position: inherit;
+    text-decoration: black;
+}
+.albums
+{
+    text-decoration: black;
+    
+}
+h6
+{
+    color: black;
+}
+.linkshift
+{
+    border: 1px white;
+    padding-left: 40px;
+}
+.design
+{
+    border: 1px white;
+}
+#pad
+{
+    padding: 10px;
+
+}
+/* div {
+    background:
+      url(spotify:track:4aawyAB9vmqN3uQ7FjRGTy)
+      no-repeat
+      left center;
+    padding: 5px 0 5px 25px;
+  } */
+  .homepad
+  {
+      padding: 20px;
+  }
